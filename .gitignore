@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Compiled VS Code Extensions
+*.vsix
+
+# Environment variables & sensitive info
+.env
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# VS Code test folder
+.vscode-test/

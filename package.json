@@ -1,0 +1,22 @@
+{
+  "name": "CatGirlUmi-Katt-Dev-PurPur",
+  "displayName": "Katt-Dev PurPur",
+  "description": "A vibrant and cozy purple-tinted VS Code theme designed by Katt-Dev",
+  "version": "0.0.1",
+  "publisher": "catgirlumi",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Katt-Dev PurPur",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Katt-Dev PurPur-color-theme.json"
+      }
+    ]
+  }
+}
