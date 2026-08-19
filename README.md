@@ -1,6 +1,6 @@
 # Katt-Dev PurPur 💜
 
-A cozy purple-tinted dark VS Code theme designed for coding comfort and clean readability!
+A vibrant and cozy purple-tinted dark VS Code theme designed for coding comfort, high contrast, and clean readability!
 
 ## Features
 
@@ -12,13 +12,15 @@ A cozy purple-tinted dark VS Code theme designed for coding comfort and clean re
   * 🟠 **Orange** for Parameters, Attributes, & Numbers
   * ❄️ **Ice Blue** for Variables
   * 🔴 **Sharp Red** for Invalid tokens and errors
+* **Cozy Dark Background:** Built on a deep `#140f1a` background that is easy on the eyes during late-night coding sessions.
+
 ---
 
 ## Installation
 
 ### Method: Install via VSIX
-1. Head over to the [Releases](https://github.com/katt-dev/Katt-Dev-PurPur) page of this repository.
-2. Download the latest `.vsix` file (e.g., `CatGirlUmi-Katt-Dev-PurPur-0.0.1.vsix`).
+1. Head over to the [Releases](https://github.com/katt-dev/Katt-Dev-PurPur/releases) page of this repository.
+2. Download the latest `.vsix` file (`CatGirlUmi-Katt-Dev-PurPur-0.0.1.vsix`).
 3. Open Visual Studio Code.
 4. Go to the **Extensions** sidebar (`Ctrl+Shift+X` or `Cmd+Shift+X`).
 5. Click the **`...` (Views and More Actions)** button at the top right of the extensions panel and select **Install from VSIX...**.
@@ -26,4 +28,4 @@ A cozy purple-tinted dark VS Code theme designed for coding comfort and clean re
 7. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T`), select **Katt-Dev PurPur**, and enjoy!
 
 ---
-*Made with 💜 by Katt-Dev* 
+*Made with 💜 by Katt-Dev*
