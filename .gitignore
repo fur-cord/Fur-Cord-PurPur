@@ -13,3 +13,5 @@ Thumbs.db
 
 # VS Code test folder
 .vscode-test/
+
+vsc-extension-quickstart.md

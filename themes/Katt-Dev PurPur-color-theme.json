@@ -1,30 +1,40 @@
 {
     "name": "Katt-Dev PurPur",
     "colors": {
-        "editor.background": "#140f1a",
-        "editor.foreground": "#e2d9f3",
-        "activityBarBadge.background": "#D654E8",
-        "sideBarTitle.foreground": "#8C69FF",
-        "sideBar.background": "#09060E",
-        "sideBar.border": "#1A103C",
-        "sideBarSectionHeader.background": "#09060E",
-        "activityBar.background": "#06040B",
-        "activityBar.border": "#1A103C",
-        "activityBar.foreground": "#D654E8",
-        "activityBar.inactiveForeground": "#615C75",
-        "editorGroupHeader.tabsBackground": "#09060E",
-        "tab.activeBackground": "#12101D",
-        "tab.inactiveBackground": "#09060E",
-        "tab.border": "#1A103C",
-        "tab.activeBorderTop": "#D654E8",
-        "titleBar.activeBackground": "#06040B",
-        "titleBar.inactiveBackground": "#06040B",
-        "titleBar.activeForeground": "#E6D6FF",
-        "panel.background": "#09060E",
-        "panel.border": "#1A103C",
-        "statusBar.background": "#615C75",
-        "statusBar.foreground": "#E6D6FF",
-        "statusBar.border": "#1A103C"
+        "editor.background": "#120e17",
+        "editor.foreground": "#dcd3eb",
+        "editor.lineHighlightBackground": "#1b1524",
+        "editor.selectionBackground": "#331c4e",
+        
+        "activityBar.background": "#0b080f",
+        "activityBar.border": "#211438",
+        "activityBar.foreground": "#c4a5f0",
+        "activityBar.inactiveForeground": "#49395e",
+        "activityBar.activeBackground": "#1c112b",
+        "activityBar.activeBorder": "#967bbd",
+        "activityBarBadge.background": "#967bbd",
+        
+        "sideBar.background": "#0e0a13",
+        "sideBar.border": "#211438",
+        "sideBarTitle.foreground": "#967bbd",
+        "sideBarSectionHeader.background": "#0e0a13",
+        "sideBarSectionHeader.border": "#211438",
+        
+        "editorGroupHeader.tabsBackground": "#0e0a13",
+        "tab.activeBackground": "#120e17",
+        "tab.inactiveBackground": "#0e0a13",
+        "tab.border": "#211438",
+        "tab.activeBorderTop": "#967bbd",
+        "tab.activeForeground": "#dcd3eb",
+        
+        "titleBar.activeBackground": "#0b080f",
+        "titleBar.inactiveBackground": "#0b080f",
+        "titleBar.activeForeground": "#dcd3eb",
+        "panel.background": "#0e0a13",
+        "panel.border": "#211438",
+        "statusBar.background": "#140e1f",
+        "statusBar.foreground": "#dcd3eb",
+        "statusBar.border": "#211438"
     },
     "tokenColors": [
         {
@@ -197,7 +207,6 @@
         {
             "name": "Operator, Misc",
             "scope": [
-                "keyword.control",
                 "constant.other.color",
                 "punctuation",
                 "meta.tag",
