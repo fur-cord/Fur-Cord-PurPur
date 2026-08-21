@@ -1,5 +1,43 @@
 {
     "name": "Katt-Dev PurPur",
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "keyword": "#ff6ac1",
+        "modifier": "#ff6ac1",
+        "type": {
+            "foreground": "#ffd32a",
+            "bold": true
+        },
+        "class": {
+            "foreground": "#ffd32a",
+            "bold": true
+        },
+        "interface": {
+            "foreground": "#ffd32a",
+            "bold": true
+        },
+        "enum": {
+            "foreground": "#ffd32a",
+            "bold": true
+        },
+        "enumMember": "#ff9f43",
+        "function": "#54a0ff",
+        "method": "#54a0ff",
+        "parameter": {
+            "foreground": "#ff9f43",
+            "italic": true
+        },
+        "variable": "#c7ecee",
+        "property": "#ff9f43",
+        "comment": {
+            "foreground": "#7f7694",
+            "italic": true
+        },
+        "string": "#2ed573",
+        "number": "#ff9f43",
+        "operator": "#dfe4ea",
+        "namespace": "#ffd32a"
+    },
     "colors": {
         "editor.background": "#120e17",
         "editor.foreground": "#dcd3eb",
