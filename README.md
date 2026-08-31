@@ -1,4 +1,4 @@
-# Fur-Dev PurPur 💜
+# Fur-Cord PurPur 💜
 
 A vibrant and cozy purple-tinted dark VS Code theme designed for coding comfort, high contrast, and clean readability!
 
