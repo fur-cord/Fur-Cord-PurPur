@@ -29,3 +29,5 @@ A vibrant and cozy purple-tinted dark VS Code theme designed for coding comfort,
 
 ---
 *Made with 💜 by Fur-Cord*
+---
+<img width="500" height="500" alt="icon-removebg-preview" src="https://github.com/user-attachments/assets/403be273-434a-4009-b894-fbe7b7d16768" />
