@@ -19,7 +19,7 @@ A vibrant and cozy purple-tinted dark VS Code theme designed for coding comfort,
 ## Installation
 
 ### Method: Install via VSIX
-1. Head over to the [Releases]([https://github.com/katt-dev/Katt-Dev-PurPur/releases](https://github.com/katt-dev/Fur-Dev-PurPur/releases)  page of this repository.
+1. Head over to the [Releases](https://github.com/katt-dev/Fur-Dev-PurPur/releases)  page of this repository.
 2. Download the latest `.vsix` file (`CatGirlUmi-Fur-Dev-PurPur-0.0.1.vsix`).
 3. Open Visual Studio Code.
 4. Go to the **Extensions** sidebar (`Ctrl+Shift+X` or `Cmd+Shift+X`).
